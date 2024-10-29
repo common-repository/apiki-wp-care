@@ -1,0 +1,15 @@
+{
+    "name": "apiki/apiki-wp-care",
+	"description": "Your ally to keep your WordPress installation healthy, safe and performative.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.11",
+        "plasticbrain/php-flash-messages": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Apiki\\Care\\": "src/"
+        }
+    }
+}

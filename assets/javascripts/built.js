@@ -1,0 +1,1 @@
+!function(a,b){if("wp-care_page_apiki-wp-care-stats-checker"==b.pagenow){b.location.href.match("care-verify")&&b.history.pushState(b.history.state,null,b.location.href.replace("&care-verify=1",""))}}(jQuery,window);

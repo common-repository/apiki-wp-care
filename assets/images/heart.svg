@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-10 -10 300 300" style="enable-background:new 0 0 279.851 279.851;" xml:space="preserve">
+	<g>
+		<path style="fill:transparent;stroke:#bd4040;" d="M255.361,41.839c-41.444-41.453-82.538-23.339-115.433,6.23
+			C107.016,18.5,66.264,0.062,24.487,41.839c-32.571,32.553-32.728,84.866,0,117.244C139.57,262.605,139.543,262.421,139.543,262.421
+			s0.166,0.341,115.809-103.339C288.098,126.704,287.932,74.392,255.361,41.839z">
+			<animate
+				id="animin"
+				attributeName="stroke-width"
+				from="0"
+				to="20"
+				begin="0s; animout.end"
+				dur="0.4s"
+				fill="freeze"
+			/>
+
+			<animate
+				id="animout"
+				attributeName="stroke-width"
+				from="20"
+				to="0"
+				begin="animin.end"
+				dur="0.4s"
+				fill="freeze"
+			/>
+		</path>
+
+		<path style="fill:#E2574C;" d="M255.361,41.839c-41.444-41.453-82.538-23.339-115.433,6.23
+			C107.016,18.5,66.264,0.062,24.487,41.839c-32.571,32.553-32.728,84.866,0,117.244C139.57,262.605,139.543,262.421,139.543,262.421
+			s0.166,0.341,115.809-103.339C288.098,126.704,287.932,74.392,255.361,41.839z">
+		</path>
+	</g>
+</svg>

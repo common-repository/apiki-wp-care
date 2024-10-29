@@ -1,0 +1,241 @@
+# Copyright (C) 2019 Apiki
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Care 0.3.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/apiki-wp-care\n"
+"POT-Creation-Date: 2019-12-16 15:13:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: src/Controller/Security.php:51
+msgid "A new report was requested, soon we will have its result."
+msgstr ""
+
+#: src/Controller/Security.php:118
+msgid "[WP Care] We have checked the Security Alerts about this WordPress."
+msgstr ""
+
+#: src/Controller/Security.php:120
+msgid "Check out the results."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Care"
+msgstr ""
+
+#: src/Controller/Security.php:143 src/Controller/Security.php:144
+#: src/View/Dashboard.php:23
+msgid "Dashboard"
+msgstr ""
+
+#: src/Controller/Security.php:152 src/Controller/Security.php:153
+#: src/View/Dashboard.php:100 src/View/Security.php:68
+msgid "Security Alerts"
+msgstr ""
+
+#: src/Controller/Security.php:161 src/Controller/Security.php:162
+#: src/View/Credit.php:22
+msgid "Credits"
+msgstr ""
+
+#: src/Controller/Security.php:196
+msgid "Apiki WP Care"
+msgstr ""
+
+#: src/Controller/Security.php:200
+msgid "<span class=\"screen-reader-text\">%d security issue</span>"
+msgid_plural "<span class=\"screen-reader-text\">%d security issues</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/View/Credit.php:26
+msgid "WP Safe"
+msgstr ""
+
+#: src/View/Credit.php:27
+msgid ""
+"WP Safe is an Apiki service used to analyze and process security analysis "
+"routines on the WordPress platform."
+msgstr ""
+
+#: src/View/Credit.php:31
+msgid "WPScan Vulnerability Database"
+msgstr ""
+
+#: src/View/Credit.php:32
+msgid ""
+"The WPScan Vulnerability Database is an online browsable version of "
+"WPScan's data files which are used to detect known WordPress core, plugin "
+"and theme vulnerabilities. This database has been compiled by the WPScan "
+"Team and various other contributors since WPScan's release. The development "
+"of the WPScan Vulnerability Database was funded by BruCON's 5by5 project."
+msgstr ""
+
+#: src/View/Dashboard.php:30
+msgid "About the WP Care Plugin"
+msgstr ""
+
+#: src/View/Dashboard.php:33
+msgid ""
+"A solution to monitor your WordPress installation, plugins and themes in "
+"use to alert you to existing security vulnerabilities."
+msgstr ""
+
+#: src/View/Dashboard.php:36
+msgid ""
+"The WP Care plugin security alerts is an Apiki initiative to help you keep "
+"only WordPress versions, plugins, and themes safe."
+msgstr ""
+
+#: src/View/Dashboard.php:42
+msgid "All analyzes are automated;"
+msgstr ""
+
+#: src/View/Dashboard.php:45
+msgid "The WordPress version is checked for vulnerabilities;"
+msgstr ""
+
+#: src/View/Dashboard.php:48
+msgid ""
+"Each Plugin, and its respective version, is checked for vulnerabilities. As "
+"well as each Theme."
+msgstr ""
+
+#: src/View/Dashboard.php:56
+msgid "About Apiki Company"
+msgstr ""
+
+#: src/View/Dashboard.php:59
+msgid ""
+"Company of the iMasters Group, is the first company specialized in "
+"WordPress in Brazil, focused solely and exclusively on this platform. "
+"Responsible for large cases in the market and proudly certified by its "
+"customers."
+msgstr ""
+
+#: src/View/Dashboard.php:76
+msgid "Do you want to talk to Apiki?"
+msgstr ""
+
+#: src/View/Dashboard.php:80
+msgid "Talk to us. %s We specialize in WordPress."
+msgstr ""
+
+#: src/View/Dashboard.php:85
+msgid "Contact us"
+msgstr ""
+
+#: src/View/Dashboard.php:104
+msgid ""
+"Monitor your WordPress installation, plugins and themes in use against "
+"security vulnerabilities."
+msgstr ""
+
+#: src/View/Dashboard.php:118 src/View/Dashboard.php:119
+#: src/View/Dashboard.php:146
+msgid "Apiki. Specialized in WordPress"
+msgstr ""
+
+#: src/View/Dashboard.php:125 src/View/Dashboard.php:151
+msgid "WP Care. An Apiki product for WordPress specialized support."
+msgstr ""
+
+#: src/View/Dashboard.php:130
+msgid "Need help? We can help you."
+msgstr ""
+
+#: src/View/Dashboard.php:131
+msgid "Help"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Apiki"
+msgstr ""
+
+#: src/View/Security.php:44
+msgid "Plugins"
+msgstr ""
+
+#: src/View/Security.php:50
+msgid "Themes"
+msgstr ""
+
+#: src/View/Security.php:75
+msgid "Verify Now"
+msgstr ""
+
+#: src/View/Security.php:81
+msgid "Last check at %s"
+msgstr ""
+
+#: src/View/Security.php:101 src/View/Security.php:131
+#: src/View/Security.php:278 src/View/Security.php:301
+msgid "Site - %s"
+msgstr ""
+
+#: src/View/Security.php:111
+msgid "View Report"
+msgstr ""
+
+#: src/View/Security.php:149
+msgid "Be careful! Your site is at risk. Do something right now."
+msgstr ""
+
+#: src/View/Security.php:153
+msgid "Great! Your site seems to me with no security alert."
+msgstr ""
+
+#: src/View/Security.php:185 src/View/Security.php:220
+msgid "Version %s"
+msgstr ""
+
+#: src/View/Security.php:203 src/View/Security.php:213
+msgid "WordPress"
+msgstr ""
+
+#: src/View/Security.php:224
+msgid "SSL Activated - %s"
+msgstr ""
+
+#: src/View/Security.php:316
+msgid ""
+"Your report is empty yet. Wait while we analize your WordPress version and "
+"each plugin, and its respective version, as well as the themes."
+msgstr ""
+
+#: src/View/Security.php:351
+msgid "Sorry. We don't have a report available to this item."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://apiki.com/produtos/apiki-wp-care/?utm_source=plugin_wp_care&utm_"
+"medium=description&utm_campaign=plugin_wp_care"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Your ally to keep your WordPress installation healthy, safe and "
+"performative."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://apiki.com"
+msgstr ""

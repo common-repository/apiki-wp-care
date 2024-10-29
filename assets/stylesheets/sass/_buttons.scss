@@ -1,0 +1,31 @@
+.awpc-btn {
+	border-radius: 3px;
+	display: inline-block;
+	padding: 14px 40px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+
+	&.awpc-btn-primary {
+		background: #26abdc;
+		color: #fff;
+	}
+
+	&:hover {
+		background: rgba(38, 171, 220, 0.8);
+	}
+}
+#wpadminbar .awpc-logo {
+	float: left;
+    width: 26px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: 0 6px;
+    background-size: 20px;
+}
+#wpadminbar .awpc-issue-counter {
+	display: inline;
+    padding: 1px 7px 1px 6px!important;
+    border-radius: 50%;
+    color: #fff;
+}
